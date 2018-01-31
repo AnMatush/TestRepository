@@ -10,6 +10,7 @@ namespace FirstTest
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Добавка");
             Console.WriteLine("Hellow World");
             Console.ReadLine();
         }
